@@ -6,6 +6,7 @@ print ("Make tis change inside dev local branch")
     print("This is a new line")
     print("This is a new line 2")
     print("This is a new line 3")
+    print("Add line 4 test merge in main and push")
 
 def sarah():
     print("This is a miracle of git sarah")
