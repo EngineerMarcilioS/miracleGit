@@ -4,7 +4,9 @@ def marcilio():
     print("This is a new line 2")
     print("This is a new line 3")
     print("Add line 4 test merge in main and push")
-    print("Add line 5 test merge from my pad")
+    print("Add line 5 consultorio")
+    print("Add line 6 test merge online")
+    print("Add line 7 merged fixed by my pad")
 
 def sarah():
     print("This is a miracle of git sarah")
